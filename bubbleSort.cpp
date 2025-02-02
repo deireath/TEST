@@ -21,7 +21,7 @@ int main(){
     
 
     int myarray[n];
-     std::cout << "Enter " << n <<" integers separated by spaces : " << std::endl;
+     std::cout << "Enter " << n <<" integers separated by spaces 58986849506 : " << std::endl;
     for(int i = 0; i < n; i++){
          std::cin >> myarray[i];
     }
